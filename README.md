@@ -38,18 +38,25 @@ I am a Big Data Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=ApacheSpark)&nbsp;
 ---
 
-<br clear="both">
+### 🔥 &nbsp; My Stats :
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janakiramant17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janakiramant17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-###
+<p align="center">
+  <a href="https://github.com/Janakiramant17">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=janakiramant17&theme=vision-friendly-dark" alt="Janaki Raman"/>
+  </a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janakiramant17&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" height=150px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=janakiramant17&show_icons=true&locale=en&theme=vision-friendly-dark" height=150px/>
+</p>
+---
 
-###
+### 🤝🏻 &nbsp;Connect with Me :
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/janakiraman17/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:janakiraman1711@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+---
